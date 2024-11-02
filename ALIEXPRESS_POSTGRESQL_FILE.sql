@@ -1,0 +1,2 @@
+SELECT * FROM discounts
+LIMIT 100
